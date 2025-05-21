@@ -36,7 +36,7 @@ Create a `terraform.tfvars` file:
 
 ```hcl
 resource_group_name   = "datalake-db"
-storage_account_name  = "rblackmore"
+storage_account_name  = "YOUR_STORAGE_ACCOUNT_NAME"
 location              = "eastus"
 ```
 
